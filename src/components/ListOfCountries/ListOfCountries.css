@@ -1,0 +1,18 @@
+.country-name {
+    display: block;
+}
+
+.country-name:hover {
+    color: grey;
+    cursor: pointer;
+}
+
+.country-name:focus {
+    background-color: blue;
+}
+
+.country-name:active {
+    background-color: yellow;
+}
+
+
